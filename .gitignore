@@ -1,0 +1,15 @@
+# General
+__pycache__
+
+# Environments
+.env
+venv/
+
+# PyCharm
+.idea/
+
+# Personal preferences
+tmp/
+*.session
+*.conf
+*.log
